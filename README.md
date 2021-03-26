@@ -1,2 +1,1 @@
-# povazhnaya_avtosalon
-Автосалон, Александра Поважная, React+Bootstrap
+# Автосалон, Александра Поважная, React+Bootstrap
